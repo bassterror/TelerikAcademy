@@ -1,0 +1,16 @@
+String is sequences of characters. String is also a class in C#, that processes strings.
+Some of the important methods in the class System.String are:
+string.Length - gives us the length of the string
+string.ToUpper - converts to uppercase.
+string.ToLower -  converts to lowercase.
+string.Substring(0, 4) - gives us substring from index 0 to index 3
+string.Trim - removes spaces from front and back of the string
+string.Split - splits the string
+string.IndexOf() - gives us the start index of the substring in the brackets
+string.Copy - copies the string
+string.Equals(string) - compares the strings
+string.CompareTo(string) - compares the strings alphabeticaly
+string.Compare(string) - compares the strings alphabeticaly and ignores the casing
+string.Replace(string, string) - replaces the strings;
+string.Concat(string, string, ...) - concates the strings
+string.Append(string) - adds the string

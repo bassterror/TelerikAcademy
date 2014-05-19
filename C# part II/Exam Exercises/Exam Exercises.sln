@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaspichan Numbers", "KaspichanNumbers\Kaspichan Numbers.csproj", "{40484F6E-0835-4571-8BCB-6761881728AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greedy Dwarf", "GreedyDwarf\Greedy Dwarf.csproj", "{A073C851-E7B7-475C-824C-04389C82B097}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slides", "Slides\Slides.csproj", "{01F59E14-8A05-436E-BE93-593B990A28B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40484F6E-0835-4571-8BCB-6761881728AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40484F6E-0835-4571-8BCB-6761881728AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40484F6E-0835-4571-8BCB-6761881728AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40484F6E-0835-4571-8BCB-6761881728AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A073C851-E7B7-475C-824C-04389C82B097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A073C851-E7B7-475C-824C-04389C82B097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A073C851-E7B7-475C-824C-04389C82B097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A073C851-E7B7-475C-824C-04389C82B097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01F59E14-8A05-436E-BE93-593B990A28B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F59E14-8A05-436E-BE93-593B990A28B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F59E14-8A05-436E-BE93-593B990A28B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F59E14-8A05-436E-BE93-593B990A28B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

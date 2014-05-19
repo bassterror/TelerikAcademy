@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="07ca7a04-793b-4a79-bf03-1f0efe24d884">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>MobilePhone/GSM.cs</FileRelativePath>
+        <ProjectRelativePath>MobilePhone/Mobile%20Phone.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>13731269121334084475</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>2303721484515860623</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>18039708440982355580</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>14366786556681520472</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>11044749003369112398</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>MobilePhone/GSMTest.cs</FileRelativePath>
+        <ProjectRelativePath>MobilePhone/Mobile%20Phone.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>11124489925537794923</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>MobilePhone/GSMCallHistoryTest.cs</FileRelativePath>
+        <ProjectRelativePath>MobilePhone/Mobile%20Phone.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>1316539143334580275</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>MobilePhone/Battery.cs</FileRelativePath>
+        <ProjectRelativePath>MobilePhone/Mobile%20Phone.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>11982551226761328476</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>
